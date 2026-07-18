@@ -1,0 +1,4 @@
+Project: Retail Nexus
+Description: AI-Powered Retail Management System
+Website: https://retailnexussai.netlify.app/
+Repository: https://github.com/varshininerella08-sweety/RETAIL-NEXUS
