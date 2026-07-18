@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://retailnexussai.netlify.app/sitemap.xml
